@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+Currently rebuilding this and my various public repos to be more presentable.
+
+In the meanwhile have a look at https://github.com/Thief3/RubiksCubeSolver, it's probably my favourite project on here.
+
+If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com
+
 <!--
 **Thief3/Thief3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
