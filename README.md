@@ -1,8 +1,8 @@
-### Hi there 👋
+### Hi!! I'm Malik, I like playing with shiny things.
 
-Currently rebuilding this and my various public repos to be more presentable.
+An MSci Mathematics and Statistics graduate from Lancaster University, UK, who likes building things, especially with shiny new tech.
 
-In the meanwhile have a look at https://github.com/Thief3/RubiksCubeSolver, it's probably my favourite project on here.
+My Github is mostly web dev stuff, a lot of Vuejs and playing with different ways to deploy web apps, like Clojurescript, as well as some game dev bits, from gamejams I occasionally do.
 
 If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com
 
