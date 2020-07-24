@@ -1,6 +1,6 @@
 ### Hi!! I'm Malik, I like playing with shiny things.
 
-An MSci Mathematics and Statistics graduate from Lancaster University, UK, who likes building things, especially with shiny new tech.
+A MSci Mathematics and Statistics graduate from Lancaster University, UK, who likes building things, especially with shiny new tech.
 
 My Github is mostly web dev stuff, a lot of Vuejs and playing with different ways to deploy web apps, like Clojurescript, as well as some game dev bits, from gamejams I occasionally do.
 
