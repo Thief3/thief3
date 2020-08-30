@@ -6,6 +6,12 @@ My Github is mostly web dev stuff, a lot of Vuejs and playing with different way
 
 If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com
 
+[![mkissarli's github stats](https://github-readme-stats.vercel.app/api?username=mkissarli&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkissarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+
+<!--[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)-->
+
 <!--
 **Thief3/Thief3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
