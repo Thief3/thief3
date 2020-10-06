@@ -13,7 +13,6 @@ If you have any questions, or want to otherwise contact me, you can reach me at 
 + [Graphql ToDo Backend](https://github.com/mkissarli/graphql-todo-backend)
 + [Graphql ToDo](https://github.com/mkissarli/vue-todo)
 + [Boardgame tracker](https://github.com/mkissarli/dice-roller)
-+ [Sudoku Solver (WIP)](https://github.com/mkissarli/sudoku)
 + Takehomes
   - [Blog card recreation](https://github.com/mkissarli/cards-takehome-vue)
   - [Booking keeping challenge](https://github.com/mkissarli/booking-challenge)
@@ -28,7 +27,6 @@ If you have any questions, or want to otherwise contact me, you can reach me at 
 + [Minions Will Cry](https://github.com/mkissarli/MinionsWillCry)
 + [Snake-Eh](https://github.com/mkissarli/Snake-Eh)
 ### Low Level/Algorithms
-+ [Sudoku Solver (WIP)](https://github.com/mkissarli/sudoku)
 + [Rubiks Cube Solver](https://github.com/mkissarli/RubiksCubeSolver)
 + [Game Boi (A game written in GameBoy C)](https://github.com/mkissarli/game-boi)
 + [Leetcode](https://github.com/mkissarli/Leetcode)
