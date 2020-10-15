@@ -15,7 +15,7 @@ If you have any questions, or want to otherwise contact me, you can reach me at 
 + [Boardgame tracker](https://github.com/mkissarli/dice-roller)
 + Takehomes
   - [Blog card recreation](https://github.com/mkissarli/cards-takehome-vue)
-  - [Booking keeping challenge](https://github.com/mkissarli/booking-challenge)
+  - [Book keeping](https://github.com/mkissarli/book-keeping)
   - [Dummy Portfolio Website](https://github.com/mkissarli/Portfolio-Website-Dummy)
   - [Time and Date API](https://github.com/mkissarli/timeAndDate)
 + Mini components
