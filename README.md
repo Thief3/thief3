@@ -2,13 +2,14 @@
 
 A MSci Mathematics and Statistics graduate from Lancaster University, UK, who likes building things, especially with shiny new tech.
 
-My Github is mostly web dev stuff, a lot of Vuejs and playing with different ways to deploy web apps, like Clojurescript, as well as some game dev bits, from gamejams I occasionally do.
+My Github is mostly web dev stuff, a lot of Vuejs and playing with different ways to deploy web apps, like Clojurescript, as well as games and data.
 
-If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com, and a mostly up-to-date resume can be found [here][https://github.com/mkissarli/resume].
+If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com.
 
 [![mkissarli's github stats](https://github-readme-stats.vercel.app/api?username=mkissarli&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Projects
++ [Data Science Projects](https://github.com/mkissarli/data-science)
 ### Web
 + [Graphql ToDo Backend](https://github.com/mkissarli/graphql-todo-backend)
 + [Graphql ToDo](https://github.com/mkissarli/vue-todo)
@@ -18,6 +19,7 @@ If you have any questions, or want to otherwise contact me, you can reach me at 
   - [Book keeping](https://github.com/mkissarli/book-keeping)
   - [Dummy Portfolio Website](https://github.com/mkissarli/Portfolio-Website-Dummy)
   - [Time and Date API](https://github.com/mkissarli/timeAndDate)
+  - [Prime Number Multiplication Table (up to the first 200000 primes)](https://github.com/mkissarli/Prime-Number-Table)
 + Mini components
   - [Weather Forecast Widget](https://github.com/mkissarli/forecastGUI)
   - [Vue component to transfer items between lists](https://github.com/mkissarli/transferList)
@@ -27,9 +29,11 @@ If you have any questions, or want to otherwise contact me, you can reach me at 
 + [Minions Will Cry](https://github.com/mkissarli/MinionsWillCry)
 + [Snake-Eh](https://github.com/mkissarli/Snake-Eh)
 ### Low Level/Algorithms
-+ [Rubiks Cube Solver](https://github.com/mkissarli/RubiksCubeSolver)
+
++ [Rust Sudoku Solver](https://github.com/mkissarli/sudoku-rust)
 + [Game Boi (A game written in GameBoy C)](https://github.com/mkissarli/game-boi)
 + [Leetcode](https://github.com/mkissarli/Leetcode)
++ ~~[Rubiks Cube Solver](https://github.com/mkissarli/RubiksCubeSolver)~~
 ### Other
 + [A time keeping app in Python](https://github.com/mkissarli/time-spent)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mkissarli&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
