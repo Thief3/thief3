@@ -1,12 +1,16 @@
 # Hi!! I'm Malik, I like playing with shiny things.
 
-A MSci Mathematics and Statistics graduate from Lancaster University, UK, who likes building things, especially with shiny new tech.
+Currently a developer at @bamboolengineeing and recent MSci Mathematics and Statistics graduate from Lancaster University, UK. I like building things, especially with shiny new tech.
 
-My Github is mostly web dev stuff, a lot of Vuejs and playing with different ways to deploy web apps, like Clojurescript, as well as games and data.
+My Github is mixture of things, but mostly trying out new languages and frameworks for web development, and well as game jam entries and game related development.
 
 If you have any questions, or want to otherwise contact me, you can reach me at kissarlim@gmail.com.
 
 [![mkissarli's github stats](https://github-readme-stats.vercel.app/api?username=mkissarli&show_icons=true&theme=cobalt&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Particularly interesting projects
++ [Data Science Projects](https://github.com/mkissarli/data-science) - A few different projects, but includes a pretty cool Music Genre Prediction network, which works by converting audio to spectrograms and pipelining these into a convolutional neural network (VGG-16), achieving a prediction success rate of 90% on unseen validation data.
++ [Game Boi (A game written in GameBoy C)](https://github.com/mkissarli/game-boi) - A Super Meat Boy style platformer done for GameBoy Jam 8, written as an actual Gameboy Original ROM!! Built in pure C with the Gameboy Developer Kit (GBDK), using a limited subset of the C compiler (e.g. no Malloc). Particular difficulties include dealing with the extremely limited specs of a Gameboy, in both speed and memory.
 
 ## Projects
 + [Data Science Projects](https://github.com/mkissarli/data-science)
