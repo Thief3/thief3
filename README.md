@@ -1,4 +1,4 @@
-# Hi!! I'm Malik, I like playing with shiny things.
+# Hi!! I like playing with shiny things.
 
 Currently a developer at @bamboolengineeing and recent MSci Mathematics and Statistics graduate from Lancaster University, UK. I like building things, especially with shiny new tech.
 
